@@ -1,6 +1,6 @@
 # Cryptolotto - Ethereum powered blockchain lottery
 
-[![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Powered%20by%20ETH.png?raw=true)](https://www.ethereum.org) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Made%20by%20Erde.png?raw=true)](https://erde.group) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Play%20Cryptolotto.png?raw=true)](https://cryptolotto.cc)
+[![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Powered%20by%20ETH.png?raw=true)](https://www.ethereum.org) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Play%20Cryptolotto.png?raw=true)](https://cryptolotto.cc)
 
 Cryptolotto is a blockchain-based, Ethereum powered lottery, which gives to users the most transparent and honest chances of winning.
 
@@ -42,16 +42,15 @@ Please watch our explainer video on [YouTube](https://www.youtube.com/watch?v=Py
   - **Send your funds**. Each game has its own price. To join the game, you need to send the right amount of ETH to the given address. If you get everything right, you will find your wallet address in the list of players.
   - **Wait for result**. Join our [Telegram channel](https://t.me/cryptolottoresults) to receive notifications about Jackpot winners. If you are the winner, then you will receive all the Jackpot amount back to your wallet immediately after the end of the game.
 
-# Promo video
-Please watch our promo video on [YouTube](https://youtu.be/ma2KYqmsdhQ). 
+# Tutorial 
+Please watch a tutorial video on [YouTube](https://www.youtube.com/watch?v=PyrtCXVUkTA). 
 
 # Features
   - **Play safely**. You can join the game safely, even if there are no other players at the time. If by the end of the game no one joins besides you, you will automatically receive your ETH back to your wallet immediately.
   - **Get results**. Recieve instant notifications on your phone by joining our [Telegram](https://www.t.me/cryptolottoresults). Get useful information about a name of a game, jackpot amount in ETH and USD, timestamp, winner's wallet address and TX hash.
   - **Works worldwide**. Everyone it the world can play the Cryptolotto. There are no borders, limitations or special terms. To start playing, it’s enough to have an Internet access, an Ethereum wallet and ethers. Cryptolotto is not limited to only one country, doesn’t require a special citizenship and is free of any bureaucracy.
   - **Play all games**. In Cryptolotto you can participate in one game unlimited amount of times. Also, you can play in all games simultaneously. It increases chances to win, but remember this not guarantees a win because a winner is always picked randomly. 
-  - **MetaMask supported**. Play the game in one click by using [MetaMask](https://metamask.io) wallet. Having Chrome or Firefox browser and MetaMask makes the process of playing in Cryptolotto even more simple and user friendly. No need to copy&paste addresses and ticket prices, just click one button and you will join the game right away! 
-  - **Mobile devices supported**. Cryptolotto supports Cipher Browser which gives ability to use DAaps on mobile phones. Download [iOS](https://itunes.apple.com/app/cipher-browser-for-ethereum/id1294572970?ls=1&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.cipherbrowser.cipher) version of Cipher and play Cryptolotto on the go!   
+  - **MetaMask supported**. Play the game in one click by using [MetaMask](https://metamask.io) wallet. Having Chrome or Firefox browser and MetaMask makes the process of playing in Cryptolotto even more simple and user friendly. No need to copy&paste addresses and ticket prices, just click one button and you will join the game right away!   
 
 # The algorithm of picking a winner
 
